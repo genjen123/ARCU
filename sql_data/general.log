@@ -1867,3 +1867,20 @@ Time		    Id Command	Argument
 /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
 Tcp port: 0  Unix socket: (null)
 Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+241221 21:13:02	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS ARCU
+		     4 Query	CREATE USER IF NOT EXISTS 'admin'@'localhost' IDENTIFIED BY 'notreallyASecretbutOK'
+		     4 Query	GRANT ALL PRIVILEGES ON ARCU.* TO 'admin'@'localhost'
+		     4 Query	FLUSH PRIVILEGES
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
