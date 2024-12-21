@@ -1867,3 +1867,187 @@ Time		    Id Command	Argument
 /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
 Tcp port: 0  Unix socket: (null)
 Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+241221 21:18:09	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS ARCU
+		     4 Query	CREATE USER IF NOT EXISTS 'admin'@'localhost' IDENTIFIED BY 'notreallyASecretbutOK'
+		     4 Query	GRANT ALL PRIVILEGES ON ARCU.* TO 'admin'@'localhost'
+		     4 Query	FLUSH PRIVILEGES
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+241221 21:19:16	     3 Connect	admin@localhost on ARCU using TCP/IP
+		     3 Quit	
+241221 21:20:09	     4 Connect	admin@localhost on ARCU using TCP/IP
+241221 21:20:10	     4 Query	CREATE TABLE users (
+  id INT AUTO_INCREMENT,
+  name varchar(255) NOT NULL,
+  username varchar(255) NOT NULL,
+  email varchar(50) NOT NULL,
+  street varchar(255) NOT NULL,
+  suite varchar(255) NOT NULL,
+  city varchar(255) NOT NULL,
+  zipcode varchar(20) NOT NULL,
+  geo_lat DECIMAL(10, 7) NOT NULL,
+  geo_lng DECIMAL(10, 7) NOT NULL,
+  phone varchar(25) NOT NULL,
+  website TEXT,
+  comp_name varchar(255) NOT NULL,
+  comp_catchPhrase TEXT,
+  comp_bs TEXT,
+  PRIMARY KEY(id)
+)
+		     4 Prepare	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Leanne Graham', 'Bret', 'Sincere@april.biz', 'Kulas Light', 'Apt. 556', 'Gwenborough', '92998-3874', -37.3159, 81.1496, '1-770-736-8031 x56442', 'hildegard.org', 'Romaguera-Crona', 'Multi-layered client-server neural-net', 'harness real-time e-markets')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Ervin Howell', 'Antonette', 'Shanna@melissa.tv', 'Victor Plains', 'Suite 879', 'Wisokyburgh', '90566-7771', -43.9509, -34.4618, '010-692-6593 x09125', 'anastasia.net', 'Deckow-Crist', 'Proactive didactic contingency', 'synergize scalable supply-chains')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Clementine Bauch', 'Samantha', 'Nathan@yesenia.net', 'Douglas Extension', 'Suite 847', 'McKenziehaven', '59590-4157', -68.6102, -47.0653, '1-463-123-4447', 'ramiro.info', 'Romaguera-Jacobson', 'Face to face bifurcated interface', 'e-enable strategic applications')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Patricia Lebsack', 'Karianne', 'Julianne.OConner@kory.org', 'Hoeger Mall', 'Apt. 692', 'South Elvis', '53919-4257', 29.4572, -164.299, '493-170-9623 x156', 'kale.biz', 'Robel-Corkery', 'Multi-tiered zero tolerance productivity', 'transition cutting-edge web services')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Chelsey Dietrich', 'Kamren', 'Lucio_Hettinger@annie.ca', 'Skiles Walks', 'Suite 351', 'Roscoeview', '33263', -31.8129, 62.5342, '(254)954-1289', 'demarco.info', 'Keebler LLC', 'User-centric fault-tolerant solution', 'revolutionize end-to-end systems')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Mrs. Dennis Schulist', 'Leopoldo_Corkery', 'Karley_Dach@jasper.info', 'Norberto Crossing', 'Apt. 950', 'South Christy', '23505-1337', -71.4197, 71.7478, '1-477-935-8478 x6430', 'ola.org', 'Considine-Lockman', 'Synchronised bottom-line interface', 'e-enable innovative applications')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Kurtis Weissnat', 'Elwyn.Skiles', 'Telly.Hoeger@billy.biz', 'Rex Trail', 'Suite 280', 'Howemouth', '58804-1099', 24.8918, 21.8984, '210.067.6132', 'elvis.io', 'Johns Group', 'Configurable multimedia task-force', 'generate enterprise e-tailers')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Nicholas Runolfsdottir V', 'Maxime_Nienow', 'Sherwood@rosamond.me', 'Ellsworth Summit', 'Suite 729', 'Aliyaview', '45169', -14.399, -120.7677, '586.493.6943 x140', 'jacynthe.com', 'Abernathy Group', 'Implemented secondary concept', 'e-enable extensible e-tailers')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Glenna Reichert', 'Delphine', 'Chaim_McDermott@dana.io', 'Dayna Park', 'Suite 449', 'Bartholomebury', '76495-3109', 24.6463, -168.8889, '(775)976-6794 x41206', 'conrad.com', 'Yost and Sons', 'Switchable contextually-based project', 'aggregate real-time technologies')
+		     4 Execute	INSERT INTO users (
+           name, username, email, street, suite, city, zipcode, 
+           geo_lat, geo_lng, phone, website, comp_name, 
+           comp_catchPhrase, comp_bs) VALUES 
+           ('Clementina DuBuque', 'Moriah.Stanton', 'Rey.Padberg@karina.biz', 'Kattie Turnpike', 'Suite 198', 'Lebsackbury', '31428-2261', -38.2386, 57.2232, '024-648-3804', 'ambrose.net', 'Hoeger LLC', 'Centralized empowering task-force', 'target end-to-end models')
+		     4 Close stmt	
+		     4 Quit	
+241221 21:21:34	     5 Connect	admin@localhost on ARCU using TCP/IP
+		     5 Query	SELECT id, name, username, email, street, suite, city, zipcode, 
+          geo_lat, geo_lng, phone, website, comp_name, 
+          comp_catchPhrase, comp_bs
+          FROM users
+          ORDER BY name ASC
+		     5 Quit	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+241221 21:24:03	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS ARCU
+		     4 Query	CREATE USER IF NOT EXISTS 'admin'@'localhost' IDENTIFIED BY 'notreallyASecretbutOK'
+		     4 Query	GRANT ALL PRIVILEGES ON ARCU.* TO 'admin'@'localhost'
+		     4 Query	FLUSH PRIVILEGES
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+241221 21:24:04	     3 Connect	admin@localhost on ARCU using TCP/IP
+		     3 Query	SELECT id, name, username, email, street, suite, city, zipcode, 
+          geo_lat, geo_lng, phone, website, comp_name, 
+          comp_catchPhrase, comp_bs
+          FROM users
+          ORDER BY name ASC
+		     3 Quit	
+241221 21:38:54	     4 Connect	admin@localhost on ARCU using TCP/IP
+		     4 Query	SELECT id, name, username, email, street, suite, city, zipcode, 
+          geo_lat, geo_lng, phone, website, comp_name, 
+          comp_catchPhrase, comp_bs
+          FROM users
+          ORDER BY name ASC
+		     4 Quit	
+241221 21:39:51	     5 Connect	admin@localhost on ARCU using TCP/IP
+		     5 Query	SELECT id, name, username, email, street, suite, city, zipcode, 
+          geo_lat, geo_lng, phone, website, comp_name, 
+          comp_catchPhrase, comp_bs
+          FROM users
+          ORDER BY name ASC
+		     5 Quit	
+241221 22:20:17	     6 Connect	admin@localhost on ARCU using TCP/IP
+		     6 Query	SELECT id, name, username, email, street, suite, city, zipcode, 
+          geo_lat, geo_lng, phone, website, comp_name, 
+          comp_catchPhrase, comp_bs
+          FROM users
+          ORDER BY name ASC
+		     6 Prepare	UPDATE users SET email = ? WHERE id = ?
+		     6 Execute	UPDATE users SET email = 'coding@arrowheadcu.org' WHERE id = 9
+		     6 Close stmt	
+		     6 Query	SELECT id, name, username, email, street, suite, city, zipcode, 
+          geo_lat, geo_lng, phone, website, comp_name, 
+          comp_catchPhrase, comp_bs
+          FROM users
+          ORDER BY name ASC
+		     6 Quit	
+241221 22:38:14	     7 Connect	admin@localhost on ARCU using TCP/IP
+		     7 Quit	
+241221 22:38:31	     8 Connect	admin@localhost on ARCU using TCP/IP
+		     8 Prepare	SELECT id, name, username, email FROM users
+          WHERE geo_lng > ?
+          ORDER BY geo_lng ASC
+		     8 Execute	SELECT id, name, username, email FROM users
+          WHERE geo_lng > -110.455
+          ORDER BY geo_lng ASC
+		     8 Close stmt	
+		     8 Quit	
+241221 22:38:57	     9 Connect	admin@localhost on ARCU using TCP/IP
+		     9 Prepare	SELECT id, name, username, email, geo_lng FROM users
+          WHERE geo_lng > ?
+          ORDER BY geo_lng ASC
+		     9 Execute	SELECT id, name, username, email, geo_lng FROM users
+          WHERE geo_lng > -110.455
+          ORDER BY geo_lng ASC
+		     9 Close stmt	
+		     9 Quit	
+241221 22:41:30	    10 Connect	admin@localhost on ARCU using TCP/IP
+		    10 Prepare	SELECT id, name, username, email, geo_lng FROM users
+          WHERE geo_lng > ?
+          ORDER BY geo_lng ASC
+		    10 Execute	SELECT id, name, username, email, geo_lng FROM users
+          WHERE geo_lng > 0
+          ORDER BY geo_lng ASC
+		    10 Close stmt	
+		    10 Quit	
