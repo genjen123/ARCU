@@ -1,0 +1,1869 @@
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230119 11:52:44	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230119 11:52:48	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230119 11:52:55	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230120  5:07:28	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+230120  5:07:29	     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230120  5:07:33	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+230120  5:07:34	     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230120 18:10:41	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+230120 18:10:42	     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230120 18:10:46	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230120 18:13:28	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230125 15:45:23	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230125 15:45:26	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+230125 15:45:27	     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230126  9:06:25	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230127 23:04:00	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230127 23:04:04	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230201 21:51:54	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230201 21:51:58	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230205  8:45:13	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230205  8:45:18	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230205 16:22:48	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+230205 16:22:49	     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230205 16:22:52	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230205 16:24:11	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230206 16:42:22	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230206 16:42:27	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230207 20:08:24	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230207 20:08:28	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230208  0:58:24	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230208  0:58:28	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230221 18:52:49	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230221 18:52:53	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230222 13:08:20	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230224 16:45:41	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+230224 16:45:42	     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230228  6:47:13	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230228  6:47:17	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230302 11:15:01	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230302 11:15:05	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230302 11:21:16	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230304  9:27:24	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+230304  9:27:25	     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230304  9:27:29	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230304  9:27:31	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230304 14:09:43	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230304 14:09:48	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230305 16:06:12	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230305 16:06:17	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230307 14:56:32	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230307 14:56:36	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230307 14:56:37	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+230307 15:00:56	     6 Connect	@localhost on  using TCP/IP
+		     6 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230307 18:40:47	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230307 18:40:51	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230307 18:43:13	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230309  1:41:07	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230309  1:41:11	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230309 17:00:50	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230311  7:41:25	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230312 21:01:46	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230314  1:50:12	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230314  1:50:16	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230315 20:16:52	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230316  7:26:34	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230316  7:26:38	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230317  9:18:28	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230317  9:18:32	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230317  9:24:59	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230317 23:48:43	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230322  7:22:30	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230322 14:14:34	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230322 14:14:38	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230324  7:57:15	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230325  3:38:04	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230325  3:38:08	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230325  3:38:13	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+230325  4:24:39	     6 Connect	@localhost on  using TCP/IP
+		     6 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230325 23:11:13	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230325 23:11:17	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230329  1:43:32	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230329  1:43:36	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230329  8:33:02	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230329  8:33:06	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230329 14:49:20	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230329 19:18:39	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+230329 19:18:40	     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230329 19:18:44	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230331 14:48:50	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230331 14:48:59	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230401 18:51:56	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230401 18:52:00	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+		     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+		     6 Connect	@localhost on  using TCP/IP
+		     6 Connect	Access denied for user ''@'localhost'
+230401 19:37:15	     7 Connect	@localhost on  using TCP/IP
+		     7 Connect	Access denied for user ''@'localhost'
+230401 19:45:19	     8 Connect	@localhost on  using TCP/IP
+		     8 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230402 16:53:45	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230402 16:53:50	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230403 10:15:48	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230403 10:15:52	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+230403 10:15:59	     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230409 14:27:44	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230409 14:31:23	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230411 15:31:41	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230411 15:31:45	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230412  2:55:01	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230414 14:09:41	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230414 14:09:46	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230414 15:44:57	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+230414 15:44:58	     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230414 15:45:02	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230415  7:41:18	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+230415  7:41:19	     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230415  7:41:23	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230415 22:57:42	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+230415 22:57:43	     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230417 17:18:37	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230417 17:18:42	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230417 18:33:45	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230417 18:33:49	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230421  8:23:23	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230421  8:26:32	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230423  9:20:37	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230423  9:20:41	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+		     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+		     6 Connect	@localhost on  using TCP/IP
+		     6 Connect	Access denied for user ''@'localhost'
+230423  9:21:15	     7 Connect	@localhost on  using TCP/IP
+		     7 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230425  0:14:17	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230425  0:14:21	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230425 16:19:08	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230426 17:50:15	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230426 17:50:19	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230429  0:54:44	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230429  0:54:48	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230429  1:49:08	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230429  1:49:12	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230430 16:03:36	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230430 16:03:40	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230430 16:03:53	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230505  6:38:35	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230505  6:38:39	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230505 10:10:40	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230505 10:10:44	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230505 10:11:05	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+230505 10:11:08	     6 Connect	@localhost on  using TCP/IP
+		     6 Connect	Access denied for user ''@'localhost'
+230505 10:11:09	     7 Connect	@localhost on  using TCP/IP
+		     7 Connect	Access denied for user ''@'localhost'
+230505 10:11:14	     8 Connect	@localhost on  using TCP/IP
+		     8 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230507  5:11:37	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230507  5:11:41	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230509 14:49:34	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230509 14:49:38	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+230509 14:49:39	     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230509 21:31:26	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230509 21:31:30	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230510  1:12:31	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230510  1:12:35	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230510 10:46:14	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+230510 10:46:15	     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230510 10:46:18	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230511  7:52:39	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230511  7:52:43	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230515 13:53:41	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230515 13:53:46	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230516 16:41:46	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230516 16:41:50	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230517  1:06:07	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230517  1:06:11	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230519  1:40:34	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230519  1:40:38	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230519  1:40:45	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+230519  1:40:59	     6 Connect	@localhost on  using TCP/IP
+		     6 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230519 15:37:24	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230519 15:37:28	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230522 15:46:08	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230522 19:09:13	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230522 19:09:17	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230707 16:02:33	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230707 16:02:39	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230717  8:49:21	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230717  8:49:25	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230718  4:08:12	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230718  4:08:16	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230728 18:07:58	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230728 18:08:02	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+230728 18:08:13	     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230730 14:06:32	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230730 14:06:35	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230806  8:38:47	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230806  8:38:51	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230810  5:44:11	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230810  5:44:15	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230812 10:31:16	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+230812 10:31:17	     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230812 10:31:20	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230821 14:08:52	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230821 14:08:55	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230821 19:01:54	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230821 19:01:58	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 13:36:18	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 13:36:22	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+230829 13:36:23	     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 17:11:12	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 17:11:29	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 19:49:12	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 19:49:16	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+230829 20:08:09	     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 20:26:34	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 20:26:38	     3 Connect	@localhost on  using TCP/IP
+		     3 Connect	Access denied for user ''@'localhost'
+		     4 Connect	@localhost on  using TCP/IP
+		     4 Connect	Access denied for user ''@'localhost'
+		     5 Connect	@localhost on  using TCP/IP
+		     5 Connect	Access denied for user ''@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 20:26:58	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 20:34:00	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230829 21:21:55	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230830 12:49:29	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230830 17:01:52	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230831 14:48:46	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230831 18:03:22	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230831 22:29:25	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230901 11:47:38	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230908 11:31:28	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231103 10:18:57	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231109 13:31:24	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231115  3:22:44	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231125  1:12:47	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231128 14:23:47	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231204  3:07:20	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+231204  3:07:21	     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231204  9:18:47	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231206  3:52:59	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231209 20:32:56	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+231209 20:32:57	     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
