@@ -1,6 +1,6 @@
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors', '1');
+// error_reporting(E_ALL);
+// ini_set('display_errors', '1');
 
 // ------------------- HELPER FUNCTIONS ------------------- //
 function insertRecords($db, $data) {
@@ -9,8 +9,6 @@ function insertRecords($db, $data) {
            geo_lat, geo_lng, phone, website, comp_name, 
            comp_catchPhrase, comp_bs) VALUES 
            (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);";
-
-  echo "$sql<br>";  // delete later
 
   $dbc = $db->prepare($sql);
   foreach($data as $key => $val) {
@@ -31,7 +29,7 @@ function viewRecordsByName($db) {
           geo_lat, geo_lng, phone, website, comp_name, 
           comp_catchPhrase, comp_bs
           FROM users
-          ORDER BY name ASC;";
+          ORDER BY name ASC";
 
   $dbc = $db->query($sql);
   if(!empty($dbc) && $dbc->num_rows > 0) {
@@ -66,7 +64,6 @@ function updateEmailAddressOfUser($db, $userId, $userEmail) {
   $dbc = $db->prepare($sql);
   $dbc->bind_param("si", $userEmail, $userId);
   $dbc->execute();
-
   $dbc->close();
 }
 
@@ -98,7 +95,6 @@ function viewUsersByLng($dbs, $longtitude) {
 
 // ------------------- MAIN ------------------- //
 
-// FORKED from https://replit.com/@huntergj/PHP-MySQL for creating DB on Replit //
 $host = "127.0.0.1";
 $user = getenv("db_user");
 $pass = getenv("db_pass");
