@@ -3,7 +3,8 @@
 This is a coding challenge given by Arrowhead Credit Union that has been completed and coded in PHP and MySQL.
 The answers are listed below, in the order of each task.
 
-> The main file is **htdocs/index.php**. Please view this file if you would like to see the code in action.
+> Use this [link](https://replit.com/@genjen123/ARCU?v=1#README.md) to fork it directly from Replit.<br>
+> The main file is **htdocs/index.php**. Please view this file if you would like to see the code.
 
 ## Tasks (Q&A)
 
@@ -133,7 +134,9 @@ function updateEmailAddressOfUser($db, $userId, $userEmail) {
 In the code, the value for longtitude is replaced by `?` to be used with prepared statements.
 
 ```mysql
-SELECT id, name, username, email, geo_lng 
+SELECT id, name, username, email, street, suite, city, zipcode, 
+       geo_lat, geo_lng, phone, website, comp_name, 
+       comp_catchPhrase, comp_bs 
 FROM users
 WHERE geo_lng > -110.455
 ORDER BY geo_lng ASC

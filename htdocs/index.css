@@ -1,0 +1,124 @@
+/* ------------ GLOBALS ------------ */
+:root {
+	--white: #FEFEFE;
+	--offset_white: #F5F5F5;
+	--gray: #E7E7E7;
+	--light_blue: #AAD1DB;
+	--dark_blue: #297BB7;
+	--light_red: #CA020F;
+	--dark_red: #AB0813;
+}
+
+body {
+	font-family: assistant;
+	padding: 10px;	/* might delete later - depends on styling */
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: asap;
+}
+
+a {
+	text-decoration: none;
+ 	color: inherit;
+}
+
+button {
+	cursor: pointer;
+	padding: 10px;
+	border-radius: 7px;
+}
+
+div.header, div.footer {
+	background: var(--light_red);
+	color: var(--white);
+
+	row-gap: 15px;
+	padding: 15px;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+}
+
+/* ------------ HEADER ------------ */
+div.header {
+	letter-spacing: 1px;
+	padding: 50px 0;
+	
+	justify-content: center;
+	flex-wrap: wrap;
+}
+div.header > div {
+	width: 100%;
+	text-align: center;
+}
+
+div.header .header-btns button {
+	color: var(--white);
+}
+div.header .header-btns button:first-child {
+	border: 1px var(--dark_red) solid;
+	background: var(--dark_red);
+}
+div.header .header-btns button:nth-child(2) {
+	margin-left: 5px;
+	background: none;
+	border: 1px var(--white) solid;
+}
+
+/* ------------ BODY ------------ */
+div.view-data-opts div:first-child {
+	width: 100%;
+	text-align: center;
+}
+div.view-data-opts div button {
+	width: 100px;
+	font-size: 10pt;
+	
+	color: var(--white);
+	border: 1px var(--dark_blue) solid;
+	background: var(--dark_blue);
+}
+
+div.data-cont {
+	margin: 50px 30px;
+	
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+div.data-cont .user-data {
+	width: 300px;
+	padding: 15px;
+	border: 1px var(--gray) solid;
+	border-radius: 10px;
+}
+div.data-cont .user-data hr {
+	border: 1px var(--dark_red) solid;
+}
+div.data-cont .user-data .user-data-id {
+	display: block;
+	width: 100%;
+	font-size: 9pt;
+}
+div.data-cont .user-data .user-data-name {
+	letter-spacing: 0.5px;
+}
+div.data-cont .user-data .user-data-add {
+	margin: 10px 0;
+}
+div.data-cont .user-data .user-data-add span:first-child {
+	display: block;
+	font-weight: bold;
+	font-size: 9pt;
+}
+div.data-cont .user-data .user-data-add span:nth-child(2) {
+	font-size: 12pt;
+}
+
+/* ------------ FOOTER ------------ */
+div.footer {
+	justify-content: space-between;
+}
